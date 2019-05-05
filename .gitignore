@@ -1,4 +1,6 @@
 venv/
 .idea/
 Age_Detection.egg-info/
+dist/
+build/
 
